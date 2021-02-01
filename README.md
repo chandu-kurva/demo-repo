@@ -1,3 +1,3 @@
 #demo
 
-my new repository
+my new repository!
